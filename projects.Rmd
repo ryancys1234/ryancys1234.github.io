@@ -1,0 +1,15 @@
+---
+title: "Projects"
+output: 
+    html_document
+---
+
+Note: the titles are clickable.
+
+### [Identifying predictors of postoperative blood-related health complications](https://ryancys1234.github.io/JSC370-Project)
+
+This was the final project for the course JSC370H1: Data Science II offered by the Departments of Computer Science and Statistical Sciences.
+
+### [LinkedOut](https://github.com/CSC207-2022F-UofT/course-project-linkout)
+
+This was the final project for the course CSC207H1: Software Design offered by the Department of Computer Science.
