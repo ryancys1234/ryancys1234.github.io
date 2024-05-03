@@ -2,11 +2,13 @@ name: Ryan Shi
 output_dir: '.'
 navbar:
   left:
-  - text: "Home"
+  - text: Home
     href: index.html
-  - text: "Projects"
+  - text: Projects
     href: projects.html
   right:
+  - text: Resume
+    href: https://raw.githubusercontent.com/ryancys1234/ryancys1234.github.io/main/Resume.pdf
   - icon: fa-envelope-o fa
     href: mailto:ryancy.shi@mail.utoronto.ca
   - icon: fa-linkedin fa
