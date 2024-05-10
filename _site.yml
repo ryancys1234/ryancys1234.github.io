@@ -6,9 +6,9 @@ navbar:
     href: index.html
   - text: Projects
     href: projects.html
-  right:
   - text: Resume
     href: https://raw.githubusercontent.com/ryancys1234/ryancys1234.github.io/main/Resume.pdf
+  right:
   - icon: fa-envelope-o fa
     href: mailto:ryancy.shi@mail.utoronto.ca
   - icon: fa-linkedin fa
