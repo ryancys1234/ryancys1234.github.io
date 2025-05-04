@@ -11,9 +11,8 @@ body {
     padding: 1em;
 }
 
-h1 {
+h1, h2 {
     font-family: 'Inter', sans-serif;
-    font-size: 2em;
     font-weight: 500;
 }
 
