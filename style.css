@@ -17,9 +17,9 @@ h1, h2 {
 }
 
 a {
+    color: royalblue;
     text-decoration: none;
 }
 
-a:focus, a:hover {
-    text-decoration: underline;
-}
+a:focus {color: red;}
+a:hover {text-decoration: underline;}
